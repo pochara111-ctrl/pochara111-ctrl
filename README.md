@@ -1,1 +1,5 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pochara111-ctrl)](https://github.com/stats-organization/github-stats-extended)
+![](https://github.com/pochara111-ctrl/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/pochara111-ctrl/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/pochara111-ctrl/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/pochara111-ctrl/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
